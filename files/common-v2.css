@@ -1694,7 +1694,7 @@ hr.styled-hr {
 }
 
 .wsite-multicol-col {
-	vertical-align: middle;
+	vertical-align: top;
     margin: 0 !important;
     border: 0 !important;
     padding: 0;
