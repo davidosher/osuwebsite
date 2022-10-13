@@ -70,7 +70,7 @@
  #topnav { clear: both; margin: 0; }
  #topnav ul { list-style: none; float: right; }
  #topnav ul li { list-style: none; float: left; }
- #topnav a { float: left; display: block; color: #afafaf; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-weight: bold; padding: 1.2em .75em 1em; font-size: 90%; border: 0; outline: 0; list-style-type: none; text-transform: uppercase; line-height: 1; }
+ #topnav a { float: left; display: block; color: #afafaf; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-weight: bold; padding: 1.2em .75em 1em; font-size: 100%; border: 0; outline: 0; list-style-type: none; text-transform: uppercase; line-height: 1; }
  #topnav ul > li:last-child a, #topnav ul > span:last-child li a { padding-right: 0; }
  #topnav li#active a, #topnav a:hover { color: #1E90FF; border: 0; }
  #wsite-menus .wsite-menu li a { font-family: Arial, Helvetica, sans-serif; padding: 10px; color: #8d8c8c; background: #383838; border: 0; }
